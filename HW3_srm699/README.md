@@ -5,4 +5,5 @@ Finally, I wrote specific data that was needed from these feeds(json file) into 
 
 I worked by myself on this assignment and it has been done entirely by me.
 
-![Screenshot-1](SS1_HW1.png)
+![Screenshot-1](Screen Shot 2018-09-24 at 12.48.44 AM.png)
+![Screenshot-1](Screen Shot 2018-09-24 at 12.49.00 AM.png)
