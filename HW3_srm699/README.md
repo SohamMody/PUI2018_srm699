@@ -4,3 +4,5 @@ Other than this, I wrote a Python script by pulling real-time feeds from MTA and
 Finally, I wrote specific data that was needed from these feeds(json file) into a csv file provided by the user.
 
 I worked by myself on this assignment and it has been done entirely by me.
+
+![Screenshot-1](SS1_HW1.png)
