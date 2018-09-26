@@ -12,7 +12,7 @@ fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 for i in range(0,active):
     thisline = "" 
     for j in range(0,len(mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'])):
-        thisline += "%f,%f"%(mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
+        thisline += "%f,%f,"%(mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'],mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
         if(mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['OnwardCalls']!=""):
             sn=mta['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][j]['StopPointName']
         else:
@@ -23,4 +23,4 @@ for i in range(0,active):
             pd="N/A"
         thisline += "%s,%s"%(sn,pd)
         #.strip(',') removes the last comma
-        fout.write(thisline.strip(',')+"\n")
+        fout.write(thisline+"\n")
