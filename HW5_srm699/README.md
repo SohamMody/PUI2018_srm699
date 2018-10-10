@@ -1,4 +1,6 @@
 # HW5
+This homework was done by me not working in a group. 
+Statistical tests were surveyed  and performed in this assignment and also, peer assignments were reviewed where I reviewed the assignment of tingyu chan.
 
 ## Test 1: Checking whether pelvic morphology variables are the same for adloescent scoliotic and able-bodied girls.
 
