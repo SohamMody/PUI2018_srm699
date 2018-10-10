@@ -18,3 +18,12 @@ Path Analysis	| 5, Gender, General Knowledge, Health Concept, Infectious Knowled
 
 
 ![Plot for test 2](journal.pone.0104406.g001.png)
+
+## Test 3: Check how health literacy and other factors affect Health Skills and behavious in adolescents.
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Path Analysis	| 5, Gender, General Knowledge, Health Concept, Infectious Knowledge,School Performance | Category or range | 2, Health Skill, Health Behaviour | categorical | 1, age | continuous | Which factors affect the health skill and behaviour directly as well as indirectly?   | Gender,General Knowledge, Health Concept, Infectious Knowledge and School Performance have no effect on the health skill and behaviour of an individual| 0.05 | [factors affecting health behaviour and skill](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104406) |
+
+
+![Plot for test 2](journal.pone.0104406.g001.png)
