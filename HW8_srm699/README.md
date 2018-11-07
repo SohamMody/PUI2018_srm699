@@ -8,3 +8,5 @@
 ##### Figure 2: The plot being tested for its visibility to people with various colour blindnesses.(the one in the screenshot being Tritanopia)
 
 ### Assignment-2 : I have completed my analysis for the citibike project started in Homework 4. I have created a report on Authorea which is available [here](https://www.authorea.com/users/249613/articles/335964-citibike-usage-data-analysis-in-python)  
+
+#### This assignment has been done by me working by myself.
