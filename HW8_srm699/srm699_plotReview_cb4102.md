@@ -2,7 +2,7 @@
 
 #### Rendered Plot:
 
-![alt_text](srm699_hw8_plot.png)
+![alt_text](Plot.png)
 
 
 
