@@ -4,7 +4,7 @@
 ![The improved plot](Improved_plot.png)
 ### Figure 1 : The plot shows the number of shelters provided for families with children for boroughes of New  York City.This dataset has been provided by the department of homeless services and contains information about the number of shelter buildings in each community district and borough of NYC. Shelter buildings is nothing but the number of shelters or in other words, the number of people( families in this case) that are provided shelter. This data is of 31st July, 31st August and 30th September 2018 i.e. data for 3 months. Bronx(blue) has the highest number of shelters while Staten Island(red) has very few which kind of makes sense as there are fewer homeless people in Staten Island and people from other brorughs would find it the least accessible of all the boroughs.
 
-### The code to generate the plot can be found [here]() 
+### The code to generate the plot can be found [here](https://github.com/SohamMody/PUI2018_srm699/blob/master/HW11_srm699/HW11_Assignment2.ipynb) 
 
 ### Note
 
