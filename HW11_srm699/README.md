@@ -1,6 +1,6 @@
 ## This is Homework 11 for the subject Principle of Urban Informatics.
 
-### Assignment-1 : We worked a lot with time series for this assignment. We did event detection, finding trends and so on.
+### Assignment-1 : We worked a lot with time series for this assignment. We did event detection, finding trends and so on. I worked on this assignment by myself.
 
 ### Assignment-2 : I have plotted the number of shelters provided for families with children for each of the NYC boroughs.
 ![The improved plot](Improved_plot.png)
