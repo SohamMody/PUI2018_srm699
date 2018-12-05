@@ -1,5 +1,7 @@
 ## This is Homework 11 for the subject Principle of Urban Informatics.
 
+### Assignment-1 : We worked a lot with time series for this assignment. We did event detection, finding trends and so on. I worked on this assignment by myself.
+
 ### Assignment-2 : I have plotted the number of shelters provided for families with children for each of the NYC boroughs.
 ![The improved plot](Improved_plot.png)
 ### Figure 1 : The plot shows the number of shelters provided for families with children for boroughes of New  York City.This dataset has been provided by the department of homeless services and contains information about the number of shelter buildings in each community district and borough of NYC. Shelter buildings is nothing but the number of shelters or in other words, the number of people( families in this case) that are provided shelter. This data is of 31st July, 31st August and 30th September 2018 i.e. data for 3 months. Bronx(blue) has the highest number of shelters while Staten Island(red) has very few which kind of makes sense as there are fewer homeless people in Staten Island and people from other brorughs would find it the least accessible of all the boroughs.
