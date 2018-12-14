@@ -4,4 +4,4 @@
 
 ### Assignment-2(available [here](https://github.com/SohamMody/PUI2018_srm699/blob/master/HW12_srm699/HW12_Assignment2_srm699.ipynb)) : We had to do k-means clustering for the number of establishments across NYC from 1994 to 2014 according to the Business Census Buraeu Data. I checked various values of k to see which would give better results.I visualised the same as time series as well as on the map of NYC. I also did agglomerative clustering for the same and made a dendrogram using hierarchial clustering. All these were efforts to better understand the structure and distribution of the data. I took help from Pablo to plot the cluster centers. 
 
-#### I did both the assignments by myself.
+### I did both the assignments by myself.
